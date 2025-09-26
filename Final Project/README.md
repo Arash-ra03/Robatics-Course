@@ -35,7 +35,7 @@ This project has **two phases** carried out in a single Webots world (`final.wbt
 - **Key ideas:**
   - Wall-following flight to cover corridors/rooms.
   - Range-based mapping → occupancy grid saved as `point_cloud_run.pgm/.yaml`.
-  - Camera-based QR detection.
+  - Camera-based QR detection using OpenCV.
 - **Artifacts produced:** `doors.json`, `point_cloud_run.pgm/.yaml`.
 
 ---
